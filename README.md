@@ -1,1 +1,1 @@
-HiChat Project
+HiChat_Project
